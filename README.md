@@ -1,0 +1,4 @@
+# KylinOCR
+麒麟软件设计竞赛--KylinOCR
+随着Ubuntu系统的进一步推广使用，用户对应用软件的需求越来越趋向多样化、便捷化、个性化，本课题设计的Kylin照片文字识别工具KylinOCR即是响应Kylin用户对照片、文件、扫描件上文字识别编辑的现实需求，本工具运用OCR文字识别技术和多种图像处理技术以实现相关功能。
+软件开发基于Ubuntu kylin操作系统，使用Java语言和eclipse编程环境实现代码编辑与调试，并使用Windowsbuilder完成UI设计，软件的目标运行环境是Ubuntu kylin系统。
